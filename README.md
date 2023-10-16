@@ -1,9 +1,7 @@
-- 👋 oi, eu sou @andersoncosta1904
+- 👋 oi, eu sou Anderson Costa
 - 👀 estou interessado em trabalhar como programador,
-
   em especial como desenvolvedor web
 - 🌱 atualmente estou aprendendo programação com python:
-
   estou em programação orientada a objetos(POO)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
